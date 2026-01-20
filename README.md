@@ -74,6 +74,12 @@ Assista ao vídeo de demonstração da aplicação:
 
 
 
+https://github.com/user-attachments/assets/bdf39826-af57-41a2-a648-853af67b4c68
+
+
+
+
+
 ---
 
 
