@@ -1,6 +1,6 @@
 # 🎬 ToDo List
 
-Aplicação Flutter que ajuda o usuário a organizar seus afazeres.
+Aplicação Flutter que ajuda o usuário a organizar suas tarefas.
 
 ## ✅ O que foi entregue
 
